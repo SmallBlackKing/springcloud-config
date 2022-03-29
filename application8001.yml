@@ -1,8 +1,3 @@
-spring:
-  application:
-    name: zzzzxxxxx
-server:
-  port: 3355
 config:
   info: "chenwenhao"
 
