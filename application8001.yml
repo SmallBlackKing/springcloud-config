@@ -1,4 +1,6 @@
-
+spring:
+  application:
+    name: config-client_chenwenhao
 
 config:
   info: "chenwenhao"
