@@ -1,7 +1,8 @@
 spring:
   application:
     name: config-client_chenwenhao
-
+server:
+  port: 3355
 config:
   info: "chenwenhao"
 
